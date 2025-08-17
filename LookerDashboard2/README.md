@@ -63,14 +63,15 @@ Top states by sales:
 ---
 
 ## 🚀 How to Use
-1. Clone this repository.  
-2. Open the **Looker Dashboard** in your workspace.  
-3. Explore filters by:
+1. Clone this repository.
+2. LINK for the looker dashboard : https://lookerstudio.google.com/reporting/4ca06d12-d402-4892-b14b-e0bd9a2ef823
+3. Open the **Looker Dashboard** in your workspace.
+4. Explore filters by:
    - **Date range**
    - **Product**
    - **Category**
    - **State**  
-4. Drill down into KPIs, product-level insights, and location-based sales.
+5. Drill down into KPIs, product-level insights, and location-based sales.
 
 ---
 
