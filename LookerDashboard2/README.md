@@ -1,5 +1,7 @@
 # ☕ Sales Dashboard (Looker)
 
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
 ![Dashboard Preview](./CafeSalesDashboardLooker.png)
 
 ## 📊 Overview
